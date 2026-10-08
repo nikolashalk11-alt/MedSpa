@@ -1,0 +1,8 @@
+{
+  "name": "Med Spa - Aesthetic Clinic",
+  "description": "Επίσημη ιστοσελίδα του Med Spa στα Ιωάννινα. Υπηρεσίες αισθητικής, ευεξίας και χαλάρωσης με τηλεφωνικές κρατήσεις.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
